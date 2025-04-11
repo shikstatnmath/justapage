@@ -36,3 +36,70 @@ Whether you're a **doctor, teacher, tailor, florist, or creator** — if you hav
 ## 💸 Pricing
 
 | Plan   | Price (INR) | Includes                       |
+|--------|-------------|--------------------------------|
+| Basic  | ₹799        | 1 simple responsive webpage    |
+| Pro    | ₹1,499      | + Hosting & custom domain help |
+
+---
+
+## 🌟 Testimonials
+
+> “justapage helped me land clients! Looks sleek and took no effort.”  
+> — **Priya, Freelance Designer**
+
+> “As a tutor, I needed a simple portfolio. This was perfect!”  
+> — **Ankit, Math Teacher**
+
+> “I’m a florist and justapage made it easy to showcase my work.”  
+> — **Meena, Florist**
+
+> “My patients now easily book slots from my page. Thanks!”  
+> — **Dr. Ramesh, General Physician**
+
+---
+
+## 🤔 FAQ
+
+**Q: How long does it take to deliver?**  
+A: Usually 1–2 days max.
+
+**Q: Can I request updates later?**  
+A: Yes! Just message us anytime.
+
+**Q: Do I need to know coding?**  
+A: Nope — we handle everything!
+
+---
+
+## 📬 Get Started
+
+Interested in your own justapage?  
+📩 Drop us a message or fill out the form (coming soon!) to get started.
+
+---
+
+## 🧑‍💻 Developer Notes
+
+This repository contains:
+
+- `index.html` – The main landing page  
+- `style.css` – All the visual styles  
+- Easy to deploy to GitHub Pages
+
+---
+
+## 🌍 Live Demo (if hosted)
+
+👉 [https://shikstatnmath.github.io/justapage](https://shikstatnmath.github.io/justapage)
+
+---
+
+## 🛠️ Want to contribute?
+
+Feel free to fork this and use the template for your own project!  
+PRs welcome if you want to improve the UI/UX or add features.
+
+---
+
+## ©️ 2025 justapage  
+Made with ❤️ to empower individuals & small businesses online.
