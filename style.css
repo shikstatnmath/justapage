@@ -1,0 +1,144 @@
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  background: #1c7c6d;
+  color: #fff;
+}
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.cta-button {
+  background: #fff;
+  color: #1c7c6d;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.hero {
+  padding: 100px 30px;
+  text-align: center;
+  background: #e3f7f4;
+}
+.hero h1 {
+  font-size: 2.5rem;
+}
+.hero p {
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 20px auto;
+}
+.hero-btn {
+  margin-top: 20px;
+  display: inline-block;
+  background: #1c7c6d;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+}
+section {
+  padding: 60px 30px;
+}
+.steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.step {
+  flex: 1;
+  min-width: 250px;
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+}
+.features ul {
+  list-style: none;
+  padding-left: 0;
+}
+.features li {
+  margin: 10px 0;
+}
+.plans-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.plan {
+  background: #f9f9f9;
+  padding: 25px;
+  border-radius: 8px;
+  width: 250px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  text-align: center;
+}
+.contact-btn {
+  display: inline-block;
+  margin-top: 20px;
+  background: #1c7c6d;
+  color: #fff;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.faq {
+  max-width: 800px;
+  margin: 80px auto;
+  padding: 0 20px;
+}
+.faq-item {
+  margin-bottom: 20px;
+}
+.faq-item input {
+  display: none;
+}
+.faq-item label {
+  font-weight: bold;
+  display: block;
+  background: #f0f0f0;
+  padding: 10px;
+  cursor: pointer;
+}
+.faq-content {
+  display: none;
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+.faq-item input:checked ~ .faq-content {
+  display: block;
+}
+.testimonials {
+  background: #f4fbf9;
+  padding: 60px 30px;
+}
+.testimonial-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+.testimonial {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+footer {
+  text-align: center;
+  padding: 30px;
+  background: #1c7c6d;
+  color: white;
+}
